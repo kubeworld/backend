@@ -1,0 +1,2 @@
+project-name: quote-backend
+stack: kabanero/java-spring-boot2:0.3
